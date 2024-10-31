@@ -1,4 +1,10 @@
 /* Custom container */
+body {
+  text-align: justify;
+  hyphens: auto;
+  line-height: 1.8;
+}
+
 .container-narrow {
   margin: 0 auto;
   max-width: 640px; }
@@ -6,67 +12,9 @@
 .container-narrow > hr {
   margin: 30px 0; }
 
-.navbar .nav {
-  float: right; }
-
-/* posts index */
-.post > h3.title {
-  position: relative;
-  padding-top: 10px; }
-
-.post > h3.title span.date {
-  position: absolute;
-  right: 0;
-  font-size: 0.9em; }
-
-.post > .more {
-  margin: 10px 0;
-  text-align: left; }
-
-/* post-full*/
-.post-full .date {
-  margin-bottom: 20px;
-  font-weight: bold; }
-
-/* tag_box */
-.tag_box {
-  list-style: none;
-  margin: 0;
-  overflow: hidden; }
-
-.tag_box li {
-  line-height: 28px; }
-
-.tag_box li i {
-  opacity: 0.9; }
-
-.tag_box.inline li {
-  float: left; }
-
-.tag_box a {
-  padding: 3px 6px;
-  margin: 2px;
-  background: #eee;
-  color: #555;
-  border-radius: 3px;
-  text-decoration: none;
-  border: 1px dashed #cccccc; }
-
-.tag_box a span {
-  vertical-align: super;
-  font-size: 0.8em; }
-
-.tag_box a:hover {
-  background-color: #e5e5e5; }
-
-.tag_box a.active {
-  background: #57A957;
-  border: 1px solid #4c964d;
-  color: #FFF; }
-
 /* Header */
 h2 {
-  font-size:2em;
+  font-size:3em;
   font-weight: lighter;
 }
 
@@ -80,12 +28,13 @@ h4:first-child {
 
 /* Links */
 a {
-  color: #333333;
+  color: #0f0f7a;
+  text-decoration: none;
 }
 
 a:hover {
   color: black;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a::after
@@ -93,7 +42,6 @@ a::after
   content: "";
   width: 11px;
   height: 11px;
-  margin-left: 4px;
   background-image: url("../../../svg/arrow-up-right.svg");
   background-position: center;
   background-repeat: no-repeat;
@@ -101,3 +49,19 @@ a::after
   display: inline-block;
 }
 
+.social-links {
+  list-style-type: none;
+  display: flex;
+  gap: 20px; /* Adjust spacing between links */
+  align-items: flex-start; /* Align items at the top */
+  text-align: left;
+  flex-wrap: wrap; /* Wrap items if they overflow */
+  padding: 0; /* Remove any default padding */
+  margin: 0; /* Remove any default margin */
+}
+
+.page-footer{
+  padding-bottom:9px;
+  margin:10px 0 30px;
+  border-bottom:1px solid #eeeeee;
+}
