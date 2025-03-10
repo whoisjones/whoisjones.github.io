@@ -30,6 +30,12 @@ title:
                 Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data
             </a> got accepted to NAACL 2025!
         </li>
+        
+        <li><strong>[24 | 10] - Paper accepted @ CoNLL'24:</strong> Our paper  
+            <a href="https://aclanthology.org/2024.conll-babylm.7/">
+                BabyHGRN: Exploring RNNs for Sample-Efficient Language Modeling
+            </a> got accepted to CoNLL 2024 as part of the BabyLM Challenge.
+        </li>
 
         <li><strong>[24 | 10] - Teaching (winter term 24/25):</strong> We give a seminar on 
             <a href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=221779&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung">
