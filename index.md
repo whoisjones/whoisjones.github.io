@@ -22,7 +22,7 @@ title:
 ### news
 <div class="updates">
     <ul>
-        <li><strong>[25 | 03] - Paper accepted @ ICLR'25:</strong> Our paper <a href="https://arxiv.org/abs/2503.05891">MastermindEval: A Simple But Scalable Reasoning Benchmark</a> got accepted to ICLR 2025 Workshop on Reasoning and Planing for LLMs! We release datasets and a preprint soon.
+        <li><strong>[25 | 03] - Paper accepted @ ICLR'25:</strong> Our paper <a href="https://arxiv.org/abs/2503.05891">MastermindEval: A Simple But Scalable Reasoning Benchmark</a> got accepted to ICLR 2025 Workshop on Reasoning and Planing for LLMs! 
         </li>
         
         <li><strong>[24 | 12] - Paper accepted @ NAACL'25:</strong> Our paper 
