@@ -22,6 +22,10 @@ title:
 ### news
 <div class="updates">
     <ul>
+        <li><strong>[25 | 06] - Paper accepted @ ACL'25:</strong> Our paper Question Decomposition for Retrieval-Augmented Generation got accepted to ACL 2025 Student Research Workshop! 
+        </li>
+        <li><strong>[25 | 05] - Summer internship @ Amazon:</strong> I'll be doing a summer internship at <a href="https://www.amazon.science"> Amazon Alexa AI </a> again working with Nicolaas Jedema again!
+        </li>
         <li><strong>[25 | 03] - Paper accepted @ ICLR'25:</strong> Our paper <a href="https://arxiv.org/abs/2503.05891">MastermindEval: A Simple But Scalable Reasoning Benchmark</a> got accepted to ICLR 2025 Workshop on Reasoning and Planing for LLMs! 
         </li>
         
@@ -43,7 +47,7 @@ title:
             </a> this semester (winter 24/25).
         </li>
 
-        <li><strong>[24 | 06] - Summer internship @ Amazon:</strong> I will be doing a 14-week summer internship at Amazon Alexa AI in Santa Barbara!</li>
+        <li><strong>[24 | 06] - Summer internship @ Amazon:</strong> I will be doing a 14-week summer internship at <a href="https://www.amazon.science"> Amazon Alexa AI </a> in Santa Barbara, CA working with Phong Le, Nicolaas Jedema and Ravi Krishnan!</li>
 
         <li><strong>[24 | 03] - PECC available on Hugging Face:</strong> Our 
             <a href="https://huggingface.co/datasets/PatrickHaller/pecc">PECC dataset</a> 
