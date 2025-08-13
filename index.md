@@ -22,7 +22,7 @@ title:
 ### news
 <div class="updates">
     <ul>
-        <li><strong>[25 | 06] - Paper accepted @ ACL'25:</strong> Our paper Question Decomposition for Retrieval-Augmented Generation got accepted to ACL 2025 Student Research Workshop! 
+        <li><strong>[25 | 06] - Paper accepted @ ACL'25:</strong> Our paper <a href="https://aclanthology.org/2025.acl-srw.32/">Question Decomposition for Retrieval-Augmented Generation</a> got accepted to ACL 2025 Student Research Workshop! 
         </li>
         <li><strong>[25 | 05] - Summer internship @ Amazon:</strong> I'll be doing a summer internship at <a href="https://www.amazon.science"> Amazon Alexa AI </a> again working with Nicolaas Jedema again!
         </li>
