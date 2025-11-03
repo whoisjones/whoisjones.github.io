@@ -7,7 +7,6 @@ title:
     <div class='about-text'>
         I am a fourth year phd candidate at the <a href="https://www.informatik.hu-berlin.de/de/forschung/gebiete/ml/welcome">lab of machine learning</a> at Humboldt University of Berlin, supervised by <a href="https://alanakbik.github.io">Prof. Dr. Alan Akbik</a>.
         My research focuses on data-efficient transfer learning, mainly around structured information extraction.
-
         <ul class="social-links">
             <li><a href="mailto:jonas.golde@gmail.com">Mail</a></li>
             <li><a href="https://github.com/whoisjones">GitHub</a></li>
@@ -35,7 +34,7 @@ title:
         <li><strong>[24 | 12] - Paper accepted @ NAACL'25:</strong> Our paper 
             <a href="https://arxiv.org/abs/2412.10121">
                 Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data
-            </a> got accepted to NAACL 2025!
+            </a> got accepted to NAACL 2025 <i>(oral)</i>!
         </li>
         <li><strong>[24 | 10] - Paper accepted @ CoNLL'24:</strong> Our paper  
             <a href="https://aclanthology.org/2024.conll-babylm.7/">
@@ -60,7 +59,7 @@ title:
         </li>
         <li><strong>[24 | 01] - Paper accepted @ EACL'24:</strong> Our paper 
             <a href="https://aclanthology.org/2024.eacl-long.178/">Large-Scale Label Interpretation Learning for Few-Shot Named Entity Recognition</a> 
-            got accepted to EACL 2024!
+            got accepted to EACL 2024 <i>(oral)</i>!
         </li>
         <li><strong>[23 | 10] - Paper accepted @ EMNLP'23:</strong> Our paper  
             <a href="https://aclanthology.org/2023.emnlp-demo.1/">Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs</a> 
