@@ -23,7 +23,7 @@ title:
    <ul>
         <li><strong>[25 | 10] - New multilingual, multimodal benchmark released:</strong> Our paper <a href="https://arxiv.org/abs/2510.24792">PISA-Bench: The PISA Index as a Multilingual and Multimodal Metric for the Evaluation of Vision-Language Models</a> is now available on arxiv!
         </li>
-        <li><strong>[25 | 09] - Paper accepted @ EMNLP'25:</strong> Our paper Sample-Efficient Language Modeling with Linear Attention and Lightweight Enhancements got accepted to the BabyLM-Workshop! 
+        <li><strong>[25 | 09] - Paper accepted @ EMNLP'25:</strong> Our paper <a href="https://aclanthology.org/2025.babylm-main.14/">Sample-Efficient Language Modeling with Linear Attention and Lightweight Enhancements</a> got accepted to the BabyLM-Workshop! 
         </li>
         <li><strong>[25 | 06] - Paper accepted @ ACL'25:</strong> Our paper <a href="https://aclanthology.org/2025.acl-srw.32/">Question Decomposition for Retrieval-Augmented Generation</a> got accepted to ACL 2025 Student Research Workshop! 
         </li>
