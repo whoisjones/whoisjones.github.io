@@ -21,6 +21,8 @@ title:
 ### news
 <div class="updates">
    <ul>
+        <li><strong>[26 | 01] - 2 papers accepted @ EACL'26:</strong> <a href="https://arxiv.org/abs/2601.18375">Hierarchical Text Classification with LLM-Refined Taxonomies</a> (with my former colleagues from Amazon) and <a href="https://arxiv.org/abs/2512.13884">FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition</a>. Looking forward to discussing it with you in Morocco!
+        </li>
         <li><strong>[25 | 10] - New multilingual, multimodal benchmark released:</strong> Our paper <a href="https://arxiv.org/abs/2510.24792">PISA-Bench: The PISA Index as a Multilingual and Multimodal Metric for the Evaluation of Vision-Language Models</a> is now available on arxiv!
         </li>
         <li><strong>[25 | 09] - Paper accepted @ EMNLP'25:</strong> Our paper <a href="https://aclanthology.org/2025.babylm-main.14/">Sample-Efficient Language Modeling with Linear Attention and Lightweight Enhancements</a> got accepted to the BabyLM-Workshop! 
