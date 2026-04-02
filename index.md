@@ -5,7 +5,7 @@ title:
 ### about
 <div class='about-container'>
     <div class='about-text'>
-        I am a fourth year phd candidate at the <a href="https://www.informatik.hu-berlin.de/de/forschung/gebiete/ml/welcome">lab of machine learning</a> at Humboldt University of Berlin, supervised by <a href="https://alanakbik.github.io">Prof. Dr. Alan Akbik</a>.
+        I am a final year phd candidate at the <a href="https://www.informatik.hu-berlin.de/de/forschung/gebiete/ml/welcome">lab of machine learning</a> at Humboldt University of Berlin, supervised by <a href="https://alanakbik.github.io">Prof. Dr. Alan Akbik</a>.
         My research focuses on data-efficient transfer learning, mainly around structured information extraction.
         <ul class="social-links">
             <li><a href="mailto:jonas.golde@gmail.com">Mail</a></li>
@@ -21,7 +21,10 @@ title:
 ### news
 <div class="updates">
    <ul>
+        <li><strong>[26 | 03] - Outstanding Reviewer Award:</strong> I was awarded as Outstanding Reviewer at EACL 2026!</li>
+        <li><strong>[26 | 02] - New preprint available:</strong> Our new paper <a href="https://arxiv.org/abs/2601.06347">What Matters When Building Universal Multilingual Named Entity Recognition Models?</a> is available on arXiv!
         <li><strong>[26 | 01] - 2 papers accepted @ EACL'26:</strong> <a href="https://arxiv.org/abs/2601.18375">Hierarchical Text Classification with LLM-Refined Taxonomies</a> (with my former colleagues from Amazon) and <a href="https://arxiv.org/abs/2512.13884">FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition</a>. Looking forward to discussing it with you in Morocco!
+        </li>
         </li>
         <li><strong>[25 | 10] - New multilingual, multimodal benchmark released:</strong> Our paper <a href="https://arxiv.org/abs/2510.24792">PISA-Bench: The PISA Index as a Multilingual and Multimodal Metric for the Evaluation of Vision-Language Models</a> is now available on arxiv!
         </li>
