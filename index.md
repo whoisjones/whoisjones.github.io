@@ -21,6 +21,7 @@ title:
 ### news
 <div class="updates">
    <ul>
+        <li><strong>[26 | 06] - Joining Perplexity:</strong> I'll be joining <a href="https://www.perplexity.ai">Perplexity</a> as a Member of Technical Staff in September, working on one of the most challenging problems out there: search for grounding LLMs!</li>
         <li><strong>[26 | 07] - Paper accepted @ KONVENS'26:</strong> Our paper <i>news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling</i> got accepted to KONVENS 2026! Excited to be in Hamburg in September.</li>
         <li><strong>[26 | 03] - Outstanding Reviewer Award:</strong> I was awarded as Outstanding Reviewer at EACL 2026!</li>
         <li><strong>[26 | 02] - New preprint available:</strong> Our new paper <a href="https://arxiv.org/abs/2601.06347">What Matters When Building Universal Multilingual Named Entity Recognition Models?</a> is available on arXiv!
