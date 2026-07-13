@@ -21,6 +21,7 @@ title:
 ### news
 <div class="updates">
    <ul>
+        <li><strong>[26 | 07] - Paper accepted @ KONVENS'26:</strong> Our paper <i>news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling</i> got accepted to KONVENS 2026! Excited to be in Hamburg in September.</li>
         <li><strong>[26 | 03] - Outstanding Reviewer Award:</strong> I was awarded as Outstanding Reviewer at EACL 2026!</li>
         <li><strong>[26 | 02] - New preprint available:</strong> Our new paper <a href="https://arxiv.org/abs/2601.06347">What Matters When Building Universal Multilingual Named Entity Recognition Models?</a> is available on arXiv!
         <li><strong>[26 | 01] - 2 papers accepted @ EACL'26:</strong> <a href="https://arxiv.org/abs/2601.18375">Hierarchical Text Classification with LLM-Refined Taxonomies</a> (with my former colleagues from Amazon) and <a href="https://arxiv.org/abs/2512.13884">FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition</a>. Looking forward to discussing it with you in Morocco!
