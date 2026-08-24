@@ -21,6 +21,7 @@ title:
 ### news
 <div class="updates">
    <ul>
+        <li><strong>[26 | 08] - 2 papers accepted @ EMNLP'26:</strong> <a href="https://arxiv.org/abs/2601.06347">What Matters When Building Universal Multilingual Named Entity Recognition Models?</a> and <a href="https://arxiv.org/abs/2504.14366">What Matters in Linearizing Language Models? A Comparative Study of Architecture, Scale, and Task Adaptation</a> got accepted to EMNLP 2026! See you around in Budapest!</li>
         <li><strong>[26 | 07] - Paper accepted @ KONVENS'26:</strong> Our paper <a href="https://arxiv.org/abs/2607.21284">news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling</a> got accepted to KONVENS 2026! Excited to be in Hamburg in September.</li>
         <li><strong>[26 | 06] - Joining Perplexity:</strong> I'll be joining <a href="https://www.perplexity.ai">Perplexity</a> as a Member of Technical Staff in September, working on one of the most challenging problems out there: search for grounding LLMs!</li>
         <li><strong>[26 | 03] - Outstanding Reviewer Award:</strong> I was awarded as Outstanding Reviewer at EACL 2026!</li>
